@@ -209,7 +209,6 @@ class Main extends egret.DisplayObjectContainer {
     */
     private createGameScene() {
         console.log("创建游戏场景");
-        console.log('this is github test')
         this.fileManage = new LayerManagement();
         this.addChild(this.fileManage);
     }
