@@ -1,0 +1,120 @@
+{
+	"groups": [
+		{
+			"keys": "loadImg_json",
+			"name": "loadingAssets"
+		},
+		{
+			"name": "preload",
+			"keys": "img_loadAnim_png,gameContent_png,gameBtn_png,gameSignature_png,gameName_png,touchBg_png,img_beforeHead_png,img_nickNameBox_png,img_doneBtn_png,img_jumpBtn_png,img_arrow_png,btn_line_gray_Page Next_png,btn_line_gray_Page Prev_png,img_underlyingHead_1_png,img_underlyingHead_2_png,img_underlyingHead_3_png,img_underlyingHead_4_png,img_underlyingHead_5_png,btn_line_gray_Page Next2_png,btn_line_gray_Page Prev2_png"
+		}
+	],
+	"resources": [
+		{
+			"name": "loadImg_json",
+			"subkeys": "Img_bar,Img_bar_bg,Img_bg,bar_texture_Bmp,loadTxtImg",
+			"type": "sheet",
+			"url": "assets/loadImg.json"
+		},
+		{
+			"name": "img_loadAnim_png",
+			"type": "image",
+			"url": "assets/img_loadAnim.png"
+		},
+		{
+			"name": "gameContent_png",
+			"type": "image",
+			"url": "assets/open/gameContent.png"
+		},
+		{
+			"name": "gameBtn_png",
+			"type": "image",
+			"url": "assets/open/gameBtn.png"
+		},
+		{
+			"name": "gameSignature_png",
+			"type": "image",
+			"url": "assets/open/gameSignature.png"
+		},
+		{
+			"name": "gameName_png",
+			"type": "image",
+			"url": "assets/open/gameName.png"
+		},
+		{
+			"name": "touchBg_png",
+			"type": "image",
+			"url": "assets/open/touchBg.png"
+		},
+		{
+			"name": "img_beforeHead_png",
+			"type": "image",
+			"url": "assets/custom/img_beforeHead.png"
+		},
+		{
+			"name": "img_nickNameBox_png",
+			"type": "image",
+			"url": "assets/custom/img_nickNameBox.png"
+		},
+		{
+			"name": "img_doneBtn_png",
+			"type": "image",
+			"url": "assets/custom/img_doneBtn.png"
+		},
+		{
+			"name": "img_jumpBtn_png",
+			"type": "image",
+			"url": "assets/custom/img_jumpBtn.png"
+		},
+		{
+			"name": "img_arrow_png",
+			"type": "image",
+			"url": "assets/open/img_arrow.png"
+		},
+		{
+			"name": "btn_line_gray_Page Next_png",
+			"type": "image",
+			"url": "assets/custom/btn_line_gray_Page Next.png"
+		},
+		{
+			"name": "btn_line_gray_Page Prev_png",
+			"type": "image",
+			"url": "assets/custom/btn_line_gray_Page Prev.png"
+		},
+		{
+			"name": "img_underlyingHead_1_png",
+			"type": "image",
+			"url": "assets/custom/img_underlyingHead_1.png"
+		},
+		{
+			"name": "img_underlyingHead_2_png",
+			"type": "image",
+			"url": "assets/custom/img_underlyingHead_2.png"
+		},
+		{
+			"name": "img_underlyingHead_3_png",
+			"type": "image",
+			"url": "assets/custom/img_underlyingHead_3.png"
+		},
+		{
+			"name": "img_underlyingHead_4_png",
+			"type": "image",
+			"url": "assets/custom/img_underlyingHead_4.png"
+		},
+		{
+			"name": "img_underlyingHead_5_png",
+			"type": "image",
+			"url": "assets/custom/img_underlyingHead_5.png"
+		},
+		{
+			"name": "btn_line_gray_Page Next2_png",
+			"type": "image",
+			"url": "assets/open/btn_line_gray_Page Next.png"
+		},
+		{
+			"name": "btn_line_gray_Page Prev2_png",
+			"type": "image",
+			"url": "assets/open/btn_line_gray_Page Prev.png"
+		}
+	]
+}
