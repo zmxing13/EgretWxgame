@@ -87,7 +87,7 @@ class Main extends egret.DisplayObjectContainer {
 
         console.log(this.stage.stageWidth)
         console.log(this.stage.stageHeight)
-
+        
 
         //缩放信息
         var scale_X: number = Main.W / 1024;
@@ -209,6 +209,7 @@ class Main extends egret.DisplayObjectContainer {
     */
     private createGameScene() {
         console.log("创建游戏场景");
+        console.log('this is github test')
         this.fileManage = new LayerManagement();
         this.addChild(this.fileManage);
     }

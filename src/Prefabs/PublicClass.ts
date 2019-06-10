@@ -29,5 +29,4 @@ class PublicClass extends egret.DisplayObjectContainer{
         textContent.size=sizeNum;
         return textContent;
     }
-    
 }
